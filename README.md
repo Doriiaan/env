@@ -1,1 +1,1 @@
-My default Debian conf
+My default Linux conf
