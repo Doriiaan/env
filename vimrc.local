@@ -1,0 +1,18 @@
+" Display numbers
+set number
+
+" Relative numbers
+set relativenumber
+
+" Convert tab presses into spaces
+set expandtab
+
+" Set the width for each indentation level to 4 space 
+set shiftwidth=4 smarttab 
+
+" Set the visual width of a tab character to 4 spaces
+set tabstop=4
+
+" Controls the number of spaces that Vim will insert or remove when you press
+" <Tab> or <Backspace>
+set softtabstop=4
